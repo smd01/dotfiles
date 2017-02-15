@@ -17,6 +17,7 @@ Plugin 'Shougo/neocomplcache.vim'
 Plugin 'PProvost/vim-ps1'
 Plugin 'scrooloose/nerdtree.git'
 Plugin 'elzr/vim-json'
+Plugin 'Valloric/YouCompleteMe'
 "
 " All plugins should be above this line
 call vundle#end()
